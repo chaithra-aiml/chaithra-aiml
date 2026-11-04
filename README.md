@@ -1,4 +1,4 @@
-# Hi there, I'm Chaithra 👋
+# Hello, I'm Chaithra 👋
 
 🎓 AIML Undergraduate | Aspiring AI/ML Engineer
 
